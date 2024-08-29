@@ -1,0 +1,5 @@
+2,100,Iphone 12,000.0,Gold
+3,30,ip 13,23000.0,Gold
+4,20,V Smart,1000.0,Black
+6,100,B Phone,2000.0,Yellow
+7,200,Iphone NO,12000.0,Black
